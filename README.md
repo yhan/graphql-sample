@@ -1,0 +1,1 @@
+Sample project from: https://www.red-gate.com/simple-talk/dotnet/net-development/getting-started-with-graphql-in-asp-net/
